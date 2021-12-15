@@ -1,7 +1,7 @@
 {
-    "name": "VCPlayerBot",
-    "description": "Telegram bot to stream video in telegram VC",
-    "repository": "https://github.com/subinps/VCPlayerBot",
+    "name": "ShayA",
+    "description": "ربات تلگرام برای پخش ویدیو و موزیک در ویدیو چت",
+    "repository": "https://github.com/impta/HubbaX",
     "stack": "container",
     "keywords": [
       "telegram",
