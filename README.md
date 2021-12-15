@@ -1,10 +1,10 @@
-# VCPlayerBot
+# HubbaX
 
-![GitHub Repo stars](https://img.shields.io/github/stars/subinps/VCPlayerBot?color=blue&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/subinps/VCPlayerBot)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/subinps/VCPlayerBot)
-![GitHub contributors](https://img.shields.io/github/contributors/subinps/VCPlayerBot?style=flat)
-![GitHub forks](https://img.shields.io/github/forks/subinps/VCPlayerBot?style=flat)
+![GitHub Repo stars](https://img.shields.io/github/stars/impta/HubbaX?color=blue&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/impta/HubbaX)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/impta/HubbaX)
+![GitHub contributors](https://img.shields.io/github/contributors/impta/HubbaX?style=flat)
+![GitHub forks](https://img.shields.io/github/forks/impta/HubbaX?style=flat)
 
 Telegram bot to stream videos in telegram voicechat for both groups and channels. Supports live streams, YouTube videos and telegram media. With record stream support, Schedule streams, and many more.
 
