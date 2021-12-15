@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright (C) @subinps
+# Copyright (C) @impta
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
@@ -70,7 +70,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         admins = await get_admins(Config.CHAT)
         if query.data.startswith("info"):
             me, you = query.data.split("_")
-            text="Join @subin_works"
+            text="Join @GapemooN"
             if you == "volume":
                 await query.answer()
                 await query.message.edit_reply_markup(reply_markup=await volume_buttons())
