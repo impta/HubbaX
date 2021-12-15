@@ -188,12 +188,12 @@ async def show_help(client, message):
 async def repo_(client, message):
     buttons = [
         [
-            InlineKeyboardButton('🧩 Repository', url='https://github.com/impta/HubbaX'),
-            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/GapemooN'),     
+            InlineKeyboardButton('🧩 ریپو', url='https://github.com/impta/HubbaX'),
+            InlineKeyboardButton('⚙️ گپمون', url='https://t.me/GapemooN'),     
         ],
         [
-            InlineKeyboardButton("🎞 How to Deploy", url='https://youtu.be/mnWgZMrNe_0'),
-            InlineKeyboardButton('🗑 Close', callback_data='close'),
+            InlineKeyboardButton("🎞 دیپلوی", url='https://youtu.be/mnWgZMrNe_0'),
+            InlineKeyboardButton('🗑 بستن', callback_data='close'),
         ]
     ]
     await message.reply("<b>The source code of this bot is public and can be found at <a href=https://github.com/impta/HubbaX>HubbaX.</a>\nYou can deploy your own bot and use in your group.\n\nFeel free to star☀️ the repo if you liked it 🙃.</b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
