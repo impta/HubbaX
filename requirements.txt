@@ -1,5 +1,4 @@
 git+https://github.com/subinps/pyrogram.git@session
-py-tgcalls
 parse-torrent-name
 tgcrypto
 youtube-search-python
